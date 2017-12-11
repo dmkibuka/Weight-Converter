@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Weight Converter</title>
+    <link rel="stylesheet" href="convert.css">
+</head>
+
+<body>
+
+    <section>
+        <div class="container">
+            <header>
+                <h1>Weight Converter</h1>
+            </header>
+            <div id="input"><select name="weightSelect" id="weightType">
+                <option>Choose Weight Type</option>
+                <option value="1">Pounds (Lbs)</option>
+                <option value="2">Kilograms (kgs)</option>
+                <option value="3">Grams (gms)</option>
+                <option value="4">Ounces (oz)</option>
+                <option value="5">Tonnes (Ton)</option>
+            </select></div>
+            <br />
+            <input type="number" id="weightValue" placeholder="Enter weight.." value="">
+            <div id="output">
+                <div class="card tonnes" id="tonCard">
+                    <h3>Tonnes</h3>
+                    <h4 id="toTonnes"></h4>
+                </div>
+                <div class="card pounds" id="lbsCard">
+                    <h3>Pounds</h3>
+                    <h4 id="toPounds"></h4>
+                </div>
+                <div class="card kilograms" id="kgsCard">
+                    <h3>Kilograms</h3>
+                    <h4 id="toKilograms"></h4>
+                </div>
+                <div class="card grams" id="gmsCard">
+                    <h3>Grams</h3>
+                    <h4 id="toGrams"></h4>
+                </div>
+                <div class="card ounces" id="ozCard">
+                    <h3>Ounces</h3>
+                    <h4 id="toOunces"></h4>
+                </div>
+                <div class="footnote">
+                    <p>** Has no practical implementations, use suggested units</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script type="text/javascript" src="convert.js"></script>
+</body>
+
+</html>

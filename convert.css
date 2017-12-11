@@ -1,0 +1,106 @@
+body {
+    background: #333;
+    color: #fff;
+}
+
+.container {
+    width: 50%;
+    margin: 3em auto;
+    padding: 2em;
+    align-content: center;
+}
+
+header {
+    margin-bottom: 2em;
+}
+
+header h1 {
+    font-size: 2em;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+select,
+input {
+    width: 100%;
+    outline: none;
+    border: 0;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 16;
+    margin-bottom: 10px;
+    text-indent: 10px;
+}
+
+option {
+    text-indent: 10px;
+}
+
+#input {
+    align-content: center;
+}
+
+#output {
+    width: 100%;
+    align-content: center;
+}
+
+#weightValue {
+    margin-bottom: 1rem;
+}
+
+.card {
+    margin-bottom: 10px;
+    padding: 10px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.card h3 {
+    float: left;
+    margin: 0px;
+}
+
+.card h4 {
+    color: #fff !important;
+    float: right;
+    margin: 0px;
+}
+
+.pounds {
+    color: #ff0077;
+    border: 3px solid #ff0077;
+}
+
+.kilograms {
+    color: #14bafc;
+    border: 3px solid #14bafc;
+}
+
+.tonnes {
+    color: #ffffff;
+    border: 3px solid #ffffff;
+}
+
+.grams {
+    color: #ff9900;
+    border: 3px solid #ff9900;
+}
+
+.ounces {
+    color: #2cca31;
+    border: 3px solid #2cca31;
+}
+
+.footnote {
+    color: #999999;
+    font-size: .75rem;
+    align-content: center;
+}
