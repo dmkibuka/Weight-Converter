@@ -2,6 +2,6 @@
 Converts Pounds, Kilograms, Grams, Tonnes and Ounces
 ## Sample Screenshots
 
-![screenshot_1](https://user-images.githubusercontent.com/32318363/33848666-6c894d3c-de7c-11e7-917f-e895c96b314c.png)
-![screenshot_2](https://user-images.githubusercontent.com/32318363/33848695-7beaca30-de7c-11e7-80d8-a529090975fa.png)
-![screenshot_3](https://user-images.githubusercontent.com/32318363/33848700-7e3f2c40-de7c-11e7-8954-c5320756676a.png)
+![screenshot_1](https://user-images.githubusercontent.com/32318363/33858541-08207826-de9e-11e7-9e43-7c2e05fc0340.png)
+![screenshot_2](https://user-images.githubusercontent.com/32318363/33858543-0837c206-de9e-11e7-81d8-323e9081601f.png)
+![screenshot_3](https://user-images.githubusercontent.com/32318363/33858544-085253f0-de9e-11e7-9179-fdbaa55e7608.png)
